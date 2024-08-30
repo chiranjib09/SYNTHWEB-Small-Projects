@@ -15,7 +15,7 @@ body {
 
 
 .left-side {
-  /*background-image: url("Background.jpg");*/
+  background-image: url("Background.jpg");
   color: rgb(39, 49, 67);
   padding: 40px;
   width: 50%;
@@ -32,4 +32,10 @@ body {
       background-repeat:   no-repeat;
       background-size:contain;
   }
+}
+
+.right-side {
+  padding: 40px;
+  width: 50%;
+  background-color: white;
 }
